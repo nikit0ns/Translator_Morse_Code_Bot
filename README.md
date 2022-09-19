@@ -3,3 +3,7 @@
 -
 -
 - :open_file_folder: The bot has three commands: `/start` , `/translate` , `/help`.
+
+---
+
+# Screenshots

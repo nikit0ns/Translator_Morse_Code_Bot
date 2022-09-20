@@ -2,7 +2,7 @@
 
 -
 -
-- :open_file_folder: The bot has three commands: `/start` , `/translate` , `/help`.
+- :open_file_folder: The bot has four commands: `/start` , `/table` , `/translate` , `/help`.
 
 ---
 

@@ -8,5 +8,8 @@
 
 # Screenshots
 
-![Your_Personal_Information_Bot](https://github.com/nikit0ns/Screenshots/blob/312add0f2aec6922a3d75a4f2925d3f7a8081f35/Your_Personal_Information_Bot.png)
+![Translator_Morse_Code_Bot_Start](https://github.com/nikit0ns/Screenshots/blob/master/Translator_Morse_Code_Bot_Start.png)
 
+![Translator_Morse_Code_Bot_Table](https://github.com/nikit0ns/Screenshots/blob/master/Translator_Morse_Code_Bot_Table.png)
+
+![Translator_Morse_Code_Bot_Commands](https://github.com/nikit0ns/Screenshots/blob/master/Translator_Morse_Code_Bot_Commands.png)

@@ -1,6 +1,6 @@
 # @Translator_Morse_Code_Bot - Telegram Bot
 
-- :gear: Bot Translator to Morse Code in the Telegram.
+- :gear: The Bot Translator to Morse Code in the Telegram.
 - :books: A dictionary is used so that characters can be changed.
 - :open_file_folder: The Bot has four commands: `/start` , `/table` , `/translate` , `/help`.
 

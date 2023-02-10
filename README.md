@@ -12,4 +12,4 @@
 
 ![Translator_Morse_Code_Bot_Table](https://github.com/nikit0ns/Translator_Morse_Code_Bot/blob/master/Screenshots/Translator_Morse_Code_Bot_Table.png)
 
-![Translator_Morse_Code_Bot_Commands](https://github.com/nikit0ns/Translator_Morse_Code_Bot/blob/master/Screenshots/Translator_Morse_Code_Bot_Commands.png
+![Translator_Morse_Code_Bot_Commands](https://github.com/nikit0ns/Translator_Morse_Code_Bot/blob/master/Screenshots/Translator_Morse_Code_Bot_Commands.png)

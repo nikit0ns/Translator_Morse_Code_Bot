@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
+
 # @Translator_Morse_Code_Bot - Telegram Bot
 
 - :gear: The Bot Translator to Morse Code in the Telegram.
